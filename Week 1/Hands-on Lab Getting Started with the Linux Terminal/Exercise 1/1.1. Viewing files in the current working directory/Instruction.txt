@@ -1,0 +1,3 @@
+Typing and entering ls will display all files and directories contained within your current working directory:
+ls
+Your default current working directory in this lab environment, the /home/project directory, is empty. Thus entering ls into the command line will not return anything yet.
